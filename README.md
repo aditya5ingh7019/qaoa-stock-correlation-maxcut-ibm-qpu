@@ -65,15 +65,6 @@ QAOA performance under real NISQ-era noise:
   same device the hardware job ran on.
 - Total QPU time consumed across all experiments: a few seconds.
 
-## Project Structure
-
-├── qaoa_maxcut_ibm.py # Main script (baselines, single-depth run, noise comparison, p-sweep)
-├── requirements.txt
-├── stock_correlation_graph.png
-├── approx_ratio_comparison.png
-├── qaoa_p_sweep_with_gates.png
-└── README.md
-
 ## Setup
 
 ```bash
