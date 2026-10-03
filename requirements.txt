@@ -1,9 +1,9 @@
-numpy
-pandas
-matplotlib
-networkx
-yfinance
-pennylane
-qiskit
-qiskit-ibm-runtime
-qiskit-aer
+  pennylane
+  qiskit
+  qiskit-aer
+  qiskit-ibm-runtime
+  yfinance
+  pandas
+  numpy
+  networkx
+  matplotlib
